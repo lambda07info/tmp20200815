@@ -1,0 +1,22 @@
+{
+  "extends": [
+    "config:base",
+    ":assignAndReview(lambda07info)",
+    ":automergePatch",
+    ":timezone(Asia/Tokyo)",
+    ":unpublishSafe"
+  ],
+  "assignAutomerge": true,
+  "schedule": "at any time",
+  "npm": {
+    "packageRules": [
+      {
+        "groupName": "apollo",
+        "packagePatterns": [
+          "^@apollo/"
+        ],
+        "enabled": false
+      }
+    ]
+  }
+}
