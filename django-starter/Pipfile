@@ -30,7 +30,7 @@ pylint-django = "==2.3.0"
 # Django - Testing
 pytest-django = "==4.1.0"
 django-coverage-plugin = "==1.8.0"
-factory-boy = "==3.1.0"
+factory-boy = "==3.2.0"
 # DRF - Browsable API
 Markdown = "==3.3.3"
 Pygments = "==2.7.3"
