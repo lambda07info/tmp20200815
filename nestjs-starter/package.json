@@ -74,7 +74,7 @@
     "@twihike/eslint-config": "0.1.12",
     "@twihike/prettier-config": "0.1.12",
     "@types/bcrypt": "3.0.0",
-    "@types/express": "4.17.9",
+    "@types/express": "4.17.11",
     "@types/jest": "26.0.19",
     "@types/node": "14.14.14",
     "@types/passport-jwt": "3.0.3",
