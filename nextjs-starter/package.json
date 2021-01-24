@@ -65,7 +65,7 @@
     "babel-loader": "8.2.2",
     "babel-preset-react-app": "10.0.0",
     "cypress": "6.1.0",
-    "cypress-image-snapshot": "4.0.0",
+    "cypress-image-snapshot": "4.0.1",
     "enzyme": "3.11.0",
     "enzyme-adapter-react-16": "1.15.5",
     "eslint": "7.16.0",
