@@ -36,7 +36,7 @@ Markdown = "==3.3.3"
 Pygments = "==2.7.3"
 # DRF - Core API
 coreapi = "==2.3.3"
-PyYAML = "==5.3.1"
+PyYAML = "==5.4.1"
 # DRF - mypy
 djangorestframework-stubs = "==1.3.0"
 
