@@ -34,7 +34,7 @@
   },
   "prettier": "@twihike/prettier-config",
   "dependencies": {
-    "@godaddy/terminus": "4.5.0",
+    "@godaddy/terminus": "4.6.0",
     "@nestjs/common": "7.6.3",
     "@nestjs/core": "7.6.3",
     "@nestjs/graphql": "7.9.1",
