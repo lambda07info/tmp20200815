@@ -52,7 +52,7 @@
     "@testing-library/user-event": "12.6.0",
     "@twihike/eslint-config": "0.1.12",
     "@twihike/prettier-config": "0.1.12",
-    "@types/cypress-image-snapshot": "3.1.2",
+    "@types/cypress-image-snapshot": "3.1.5",
     "@types/graphql-iso-date": "3.4.0",
     "@types/jest": "26.0.19",
     "@types/node": "14.14.14",

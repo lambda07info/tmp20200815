@@ -2808,10 +2808,10 @@
   dependencies:
     chalk "*"
 
-"@types/cypress-image-snapshot@3.1.2":
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/@types/cypress-image-snapshot/-/cypress-image-snapshot-3.1.2.tgz#68524daa5afa98480996167e5e2135bac58527f5"
-  integrity sha512-n0YKceEVXsRzeEFW3PL2zXRhw9fB1aYePPY4ZK6J4gMTBvnI4qYzqrqUJtwzQB2qF8MpWmSL92AmW+6YJxxOpg==
+"@types/cypress-image-snapshot@3.1.5":
+  version "3.1.5"
+  resolved "https://registry.yarnpkg.com/@types/cypress-image-snapshot/-/cypress-image-snapshot-3.1.5.tgz#03d5b8e089e96a493da31bdb9aef16f34c0000c1"
+  integrity sha512-PoYmfojdRxrAi5kXi60NKSw3f9tmP7wGtyoRpMMcV4rlEOUzpyO6zmE9G0Z42u7i9erlyrwLVqFpbsN+uLq1Kg==
 
 "@types/glob-base@^0.3.0":
   version "0.3.0"
