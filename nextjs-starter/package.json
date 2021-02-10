@@ -39,10 +39,10 @@
   },
   "devDependencies": {
     "@apollo/link-schema": "2.0.0-beta.3",
-    "@graphql-codegen/cli": "1.19.4",
+    "@graphql-codegen/cli": "1.20.1",
     "@graphql-codegen/introspection": "1.18.1",
-    "@graphql-codegen/typescript": "1.19.0",
-    "@graphql-codegen/typescript-operations": "1.17.12",
+    "@graphql-codegen/typescript": "1.21.0",
+    "@graphql-codegen/typescript-operations": "1.17.14",
     "@graphql-codegen/typescript-react-apollo": "2.2.1",
     "@next/bundle-analyzer": "10.0.3",
     "@storybook/addons": "6.1.11",
