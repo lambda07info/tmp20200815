@@ -13,7 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "core-js": "3.8.1",
+    "core-js": "3.9.0",
     "regenerator-runtime": "0.13.7"
   },
   "devDependencies": {
