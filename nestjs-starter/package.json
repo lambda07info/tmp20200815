@@ -37,7 +37,7 @@
     "@godaddy/terminus": "4.5.0",
     "@nestjs/common": "7.6.3",
     "@nestjs/core": "7.6.3",
-    "@nestjs/graphql": "7.9.1",
+    "@nestjs/graphql": "7.9.10",
     "@nestjs/jwt": "7.2.0",
     "@nestjs/microservices": "7.6.3",
     "@nestjs/passport": "7.1.5",
