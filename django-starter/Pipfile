@@ -32,7 +32,7 @@ pytest-django = "==4.1.0"
 django-coverage-plugin = "==1.8.0"
 factory-boy = "==3.1.0"
 # DRF - Browsable API
-Markdown = "==3.3.3"
+Markdown = "==3.3.4"
 Pygments = "==2.7.3"
 # DRF - Core API
 coreapi = "==2.3.3"
