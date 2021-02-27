@@ -75,7 +75,7 @@
     "prettier": "2.2.1",
     "rimraf": "3.0.2",
     "rollup": "2.39.1",
-    "rollup-plugin-filesize": "9.1.0",
+    "rollup-plugin-filesize": "9.1.1",
     "rollup-plugin-license": "2.2.0",
     "rollup-plugin-node-license": "0.2.0",
     "rollup-plugin-peer-deps-external": "2.2.4",
