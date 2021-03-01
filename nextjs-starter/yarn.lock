@@ -2744,14 +2744,14 @@
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-1.1.2.tgz#ccb91445360179a04e7fe6aff78c00ffc1eeaf82"
   integrity sha512-RbzJvlNzmRq5c3O09UipeuXno4tA1FE6ikOjxZK0tuxVv3412l64l5t1W5pj4+rJq9vpkm/kwiR07aZXnsKPxw==
 
-"@twihike/eslint-config@0.1.12":
-  version "0.1.12"
-  resolved "https://registry.yarnpkg.com/@twihike/eslint-config/-/eslint-config-0.1.12.tgz#c5ecd9a4bc6d781fe565047ff1688da06a9a072d"
-  integrity sha512-xpgjg5rWSlpCRUaMQW05GZAGDXopWlntaV1kyJyQchpsP7TODgoPkaJlRy4JAFyxFC2ASR6HoErrOps1G0w/Pg==
+"@twihike/eslint-config@0.1.14":
+  version "0.1.14"
+  resolved "https://registry.yarnpkg.com/@twihike/eslint-config/-/eslint-config-0.1.14.tgz#cf0745d7802f3b9310fe827fc7935096f332e11e"
+  integrity sha512-r1wnG6jo2t09hHa9ZuF5awrstPazbLY4qtV4e6aFxZAaf82z6mDjLYOtwZVeYDXSzE7pMBoe943HK2NknwcVWg==
   dependencies:
-    "@typescript-eslint/parser" "^4.10.0"
+    "@typescript-eslint/parser" "^4.15.2"
     eslint-config-airbnb-base "^14.2.1"
-    eslint-config-prettier "^7.1.0"
+    eslint-config-prettier "^8.1.0"
 
 "@twihike/prettier-config@0.1.12":
   version "0.1.12"
@@ -3248,7 +3248,7 @@
     eslint-scope "^5.0.0"
     eslint-utils "^2.0.0"
 
-"@typescript-eslint/parser@^4.10.0":
+"@typescript-eslint/parser@^4.15.2":
   version "4.15.2"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-4.15.2.tgz#c804474321ef76a3955aec03664808f0d6e7872e"
   integrity sha512-SHeF8xbsC6z2FKXsaTb1tBCf0QZsjJ94H6Bo51Y1aVEZ4XAefaw5ZAilMoDPlGghe+qtq7XdTiDlGfVTOmvA+Q==
@@ -6797,10 +6797,10 @@ eslint-config-airbnb-base@^14.2.1:
     object.assign "^4.1.2"
     object.entries "^1.1.2"
 
-eslint-config-prettier@^7.1.0:
-  version "7.2.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-7.2.0.tgz#f4a4bd2832e810e8cc7c1411ec85b3e85c0c53f9"
-  integrity sha512-rV4Qu0C3nfJKPOAhFujFxB7RMP+URFyQqqOZW9DMRD7ZDTFyjaIlETU3xzHELt++4ugC0+Jm084HQYkkJe+Ivg==
+eslint-config-prettier@^8.1.0:
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.1.0.tgz#4ef1eaf97afe5176e6a75ddfb57c335121abc5a6"
+  integrity sha512-oKMhGv3ihGbCIimCAjqkdzx2Q+jthoqnXSP+d86M9tptwugycmTFdVR4IpLgq2c4SHifbwO90z2fQ8/Aio73yw==
 
 eslint-import-resolver-node@^0.3.4:
   version "0.3.4"
