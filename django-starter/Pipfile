@@ -60,7 +60,7 @@ boto3 = "==1.17.17"
 django-anymail = "==8.2"
 graphene-django = "==2.15.0"
 # DRF
-djangorestframework = "==3.12.2"
+djangorestframework = "==3.12.4"
 djangorestframework-simplejwt = "==4.6.0"
 djangorestframework-camel-case = "==1.2.0"
 djoser = "==2.1.0"
