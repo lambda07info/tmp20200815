@@ -26,7 +26,7 @@
     "storycap": "storycap --serverTimeout 60000 --serverCmd 'start-storybook --ci -p 9002' http://localhost:9002"
   },
   "dependencies": {
-    "@apollo/client": "3.3.11",
+    "@apollo/client": "3.3.19",
     "@apollo/link-context": "2.0.0-beta.3",
     "@apollo/react-ssr": "4.0.0",
     "@material-ui/core": "4.11.3",
