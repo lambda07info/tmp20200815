@@ -38,7 +38,7 @@
     "next": "10.0.7",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-table": "7.6.3",
+    "react-table": "7.7.0",
     "yup": "0.32.9"
   },
   "devDependencies": {
@@ -62,7 +62,7 @@
     "@types/node": "14.14.31",
     "@types/react": "17.0.2",
     "@types/react-dom": "17.0.1",
-    "@types/react-table": "7.0.28",
+    "@types/react-table": "7.7.1",
     "@types/yup": "0.29.11",
     "@typescript-eslint/eslint-plugin": "4.15.2",
     "babel-jest": "26.6.3",
