@@ -7332,10 +7332,10 @@ rollup-plugin-license@2.5.0:
     spdx-expression-validate "2.0.0"
     spdx-satisfies "5.0.1"
 
-rollup-plugin-node-license@0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/rollup-plugin-node-license/-/rollup-plugin-node-license-0.2.0.tgz#aa18b6a5df52a7da3c639847e65826bb7af5ef2d"
-  integrity sha512-FTpd4WuplizTEIVmWv7bZ2EYVIE0Q8h7O+vtBgJbLGuUeVaPQ4N0lbULQhIzYwS0xGbHETVtA0l6tNQHIedd6Q==
+rollup-plugin-node-license@0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-node-license/-/rollup-plugin-node-license-0.2.1.tgz#57050fefb622c5a0f8a6e487fcab2000fd482bd4"
+  integrity sha512-HIQiPVaucKcuk1+aMhFMa1Ux1PofhM/egGDBoiBmv6/Oibw9Wq/YNXjqC6eBW0yA4gyy7ABymtki2CiiM9ljfQ==
   dependencies:
     license-checker "16.0.0"
     markdown-table "1.1.3"
