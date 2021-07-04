@@ -3070,14 +3070,14 @@
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-1.1.2.tgz#ccb91445360179a04e7fe6aff78c00ffc1eeaf82"
   integrity sha512-RbzJvlNzmRq5c3O09UipeuXno4tA1FE6ikOjxZK0tuxVv3412l64l5t1W5pj4+rJq9vpkm/kwiR07aZXnsKPxw==
 
-"@twihike/eslint-config@0.1.14":
-  version "0.1.14"
-  resolved "https://registry.yarnpkg.com/@twihike/eslint-config/-/eslint-config-0.1.14.tgz#cf0745d7802f3b9310fe827fc7935096f332e11e"
-  integrity sha512-r1wnG6jo2t09hHa9ZuF5awrstPazbLY4qtV4e6aFxZAaf82z6mDjLYOtwZVeYDXSzE7pMBoe943HK2NknwcVWg==
+"@twihike/eslint-config@0.1.15":
+  version "0.1.15"
+  resolved "https://registry.yarnpkg.com/@twihike/eslint-config/-/eslint-config-0.1.15.tgz#b2d6365db2c9dec4ccef236df55540ebea91cfed"
+  integrity sha512-r4fnAXVM67QRM4mXZlugZuXePB/oq0eM4PXW1Xl5X3MLyBZjHuYKN9r9lg/OyeEhwVnIvBl8+ApgkZVUkTs0aw==
   dependencies:
-    "@typescript-eslint/parser" "^4.15.2"
+    "@typescript-eslint/parser" "^4.28.1"
     eslint-config-airbnb-base "^14.2.1"
-    eslint-config-prettier "^8.1.0"
+    eslint-config-prettier "^8.3.0"
 
 "@twihike/prettier-config@0.1.12":
   version "0.1.12"
@@ -3609,14 +3609,14 @@
     eslint-scope "^5.1.1"
     eslint-utils "^3.0.0"
 
-"@typescript-eslint/parser@^4.15.2":
-  version "4.26.1"
-  resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-4.26.1.tgz#cecfdd5eb7a5c13aabce1c1cfd7fbafb5a0f1e8e"
-  integrity sha512-q7F3zSo/nU6YJpPJvQveVlIIzx9/wu75lr6oDbDzoeIRWxpoc/HQ43G4rmMoCc5my/3uSj2VEpg/D83LYZF5HQ==
+"@typescript-eslint/parser@^4.28.1":
+  version "4.28.1"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-4.28.1.tgz#5181b81658414f47291452c15bf6cd44a32f85bd"
+  integrity sha512-UjrMsgnhQIIK82hXGaD+MCN8IfORS1CbMdu7VlZbYa8LCZtbZjJA26De4IPQB7XYZbL8gJ99KWNj0l6WD0guJg==
   dependencies:
-    "@typescript-eslint/scope-manager" "4.26.1"
-    "@typescript-eslint/types" "4.26.1"
-    "@typescript-eslint/typescript-estree" "4.26.1"
+    "@typescript-eslint/scope-manager" "4.28.1"
+    "@typescript-eslint/types" "4.28.1"
+    "@typescript-eslint/typescript-estree" "4.28.1"
     debug "^4.3.1"
 
 "@typescript-eslint/scope-manager@4.26.1":
@@ -7045,7 +7045,7 @@ eslint-config-airbnb-base@^14.2.1:
     object.assign "^4.1.2"
     object.entries "^1.1.2"
 
-eslint-config-prettier@^8.1.0:
+eslint-config-prettier@^8.3.0:
   version "8.3.0"
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.3.0.tgz#f7471b20b6fe8a9a9254cc684454202886a2dd7a"
   integrity sha512-BgZuLUSeKzvlL/VUjx/Yb787VQ26RU3gGjA3iiFvdsp/2bMfVIWUVP7tjxtjS0e+HP409cPlPvNkQloz8C91ew==

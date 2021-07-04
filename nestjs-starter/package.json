@@ -75,7 +75,7 @@
     "@nestjs/cli": "7.6.0",
     "@nestjs/schematics": "7.3.1",
     "@nestjs/testing": "7.6.18",
-    "@twihike/eslint-config": "0.1.14",
+    "@twihike/eslint-config": "0.1.15",
     "@twihike/prettier-config": "0.1.12",
     "@types/bcrypt": "5.0.0",
     "@types/express": "4.17.12",
