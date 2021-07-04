@@ -7,7 +7,7 @@ verify_ssl = true
 # Dev tools
 flake8 = "==3.9.2"
 mypy = "==0.812"
-pylint = "==2.8.3"
+pylint = "==2.9.3"
 autopep8 = "==1.5.7"
 black = "==21.6b0"
 isort = "==5.9.1"
@@ -43,7 +43,7 @@ djangorestframework-stubs = "==1.4.0"
 [packages]
 gunicorn = "==20.1.0"
 psycopg2-binary = "==2.9.1"
-Pillow = "==8.2.0"
+Pillow = "==8.3.0"
 # Django
 Django = "==3.1.12"
 django-environ = "==0.4.5"
@@ -56,7 +56,7 @@ django-filter = "==2.4.0"
 django-guardian = "==2.4.0"
 whitenoise = "==5.2.0"
 django-storages = "==1.11.1"
-boto3 = "==1.17.101"
+boto3 = "==1.17.105"
 django-anymail = "==8.4"
 graphene-django = "==2.15.0"
 # DRF
