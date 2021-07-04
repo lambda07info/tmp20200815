@@ -59,7 +59,7 @@
     "@twihike/eslint-config": "0.1.14",
     "@twihike/prettier-config": "0.1.12",
     "@types/dom-mediacapture-record": "1.0.7",
-    "@types/node": "15.12.2",
+    "@types/node": "15.14.1",
     "@types/react": "17.0.11",
     "@types/react-dom": "17.0.7",
     "@typescript-eslint/eslint-plugin": "4.26.1",
