@@ -1645,19 +1645,19 @@
   resolved "https://registry.yarnpkg.com/@tsconfig/node16/-/node16-1.0.1.tgz#a6ca6a9a0ff366af433f42f5f0e124794ff6b8f1"
   integrity sha512-FTgBI767POY/lKNDNbIzgAX6miIDBs6NTCbdlDb8TrWovHsSvaVIZDlTqym29C6UqhzwcJx4CYr+AlrMywA0cA==
 
-"@twihike/eslint-config@0.1.14":
-  version "0.1.14"
-  resolved "https://registry.yarnpkg.com/@twihike/eslint-config/-/eslint-config-0.1.14.tgz#cf0745d7802f3b9310fe827fc7935096f332e11e"
-  integrity sha512-r1wnG6jo2t09hHa9ZuF5awrstPazbLY4qtV4e6aFxZAaf82z6mDjLYOtwZVeYDXSzE7pMBoe943HK2NknwcVWg==
+"@twihike/eslint-config@0.1.15":
+  version "0.1.15"
+  resolved "https://registry.yarnpkg.com/@twihike/eslint-config/-/eslint-config-0.1.15.tgz#b2d6365db2c9dec4ccef236df55540ebea91cfed"
+  integrity sha512-r4fnAXVM67QRM4mXZlugZuXePB/oq0eM4PXW1Xl5X3MLyBZjHuYKN9r9lg/OyeEhwVnIvBl8+ApgkZVUkTs0aw==
   dependencies:
-    "@typescript-eslint/parser" "^4.15.2"
+    "@typescript-eslint/parser" "^4.28.1"
     eslint-config-airbnb-base "^14.2.1"
-    eslint-config-prettier "^8.1.0"
+    eslint-config-prettier "^8.3.0"
 
-"@twihike/prettier-config@0.1.12":
-  version "0.1.12"
-  resolved "https://registry.yarnpkg.com/@twihike/prettier-config/-/prettier-config-0.1.12.tgz#66016ffc0a0b1a8c19817084eb313065f1543de7"
-  integrity sha512-0YPaRepyWkYPjLGom2W52O58kvV11kVji88soSfw55RW+Mw8yGMYC8K9GrRjWgVF7L5xLVyl77cfE1HlGW6yYA==
+"@twihike/prettier-config@0.1.15":
+  version "0.1.15"
+  resolved "https://registry.yarnpkg.com/@twihike/prettier-config/-/prettier-config-0.1.15.tgz#f6d04bec00889872a4e83ba620ff2d66e7a71b82"
+  integrity sha512-EZxq+NyNi5bdz922f8euhb5i12UP8lrOo9YT3pQ70khp0kZ+61WgGVacgybfvVFANvUS2vZHNox542IJ9is/IA==
 
 "@types/accepts@*", "@types/accepts@^1.3.5":
   version "1.3.5"
@@ -2093,7 +2093,7 @@
     eslint-scope "^5.1.1"
     eslint-utils "^3.0.0"
 
-"@typescript-eslint/parser@^4.15.2":
+"@typescript-eslint/parser@^4.28.1":
   version "4.28.1"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-4.28.1.tgz#5181b81658414f47291452c15bf6cd44a32f85bd"
   integrity sha512-UjrMsgnhQIIK82hXGaD+MCN8IfORS1CbMdu7VlZbYa8LCZtbZjJA26De4IPQB7XYZbL8gJ99KWNj0l6WD0guJg==
@@ -2398,9 +2398,9 @@ ajv@6.12.6, ajv@^6.10.0, ajv@^6.12.2, ajv@^6.12.3, ajv@^6.12.4, ajv@^6.12.5:
     uri-js "^4.2.2"
 
 ajv@^8.0.1:
-  version "8.6.0"
-  resolved "https://registry.yarnpkg.com/ajv/-/ajv-8.6.0.tgz#60cc45d9c46a477d80d92c48076d972c342e5720"
-  integrity sha512-cnUG4NSBiM4YFBxgZIj/In3/6KX+rQ2l2YPRVcvAMQGWEPKuXoPIhxzwqh31jA3IPbI4qEOp/5ILI4ynioXsGQ==
+  version "8.6.1"
+  resolved "https://registry.yarnpkg.com/ajv/-/ajv-8.6.1.tgz#ae65764bf1edde8cd861281cda5057852364a295"
+  integrity sha512-42VLtQUOLefAvKFAQIxIZDaThq6om/PrfP0CYk3/vn+y4BMNkKnbli8ON2QCiHov4KkzOSJ/xSoBJdayiiYvVQ==
   dependencies:
     fast-deep-equal "^3.1.1"
     json-schema-traverse "^1.0.0"
@@ -4638,7 +4638,7 @@ eslint-config-airbnb-base@^14.2.1:
     object.assign "^4.1.2"
     object.entries "^1.1.2"
 
-eslint-config-prettier@^8.1.0:
+eslint-config-prettier@^8.3.0:
   version "8.3.0"
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.3.0.tgz#f7471b20b6fe8a9a9254cc684454202886a2dd7a"
   integrity sha512-BgZuLUSeKzvlL/VUjx/Yb787VQ26RU3gGjA3iiFvdsp/2bMfVIWUVP7tjxtjS0e+HP409cPlPvNkQloz8C91ew==
@@ -5211,9 +5211,9 @@ fast-safe-stringify@2.0.7, fast-safe-stringify@^2.0.7:
   integrity sha512-Utm6CdzT+6xsDk2m8S6uL8VHxNwI6Jub+e9NYTcAms28T84pTa25GJQV9j0CY0N1rM8hK4x6grpF2BQf+2qwVA==
 
 fastq@^1.6.0:
-  version "1.11.0"
-  resolved "https://registry.yarnpkg.com/fastq/-/fastq-1.11.0.tgz#bb9fb955a07130a918eb63c1f5161cc32a5d0858"
-  integrity sha512-7Eczs8gIPDrVzT+EksYBcupqMyxSHXXrHOLRRxU2/DicV8789MRBRR8+Hc2uWzUupOs4YS4JzBmBxjjCVBxD/g==
+  version "1.11.1"
+  resolved "https://registry.yarnpkg.com/fastq/-/fastq-1.11.1.tgz#5d8175aae17db61947f8b162cfc7f63264d22807"
+  integrity sha512-HOnr8Mc60eNYl1gzwp6r5RoUyAn5/glBolUzP/Ez6IFVPMPirxn/9phgL6zhOtaTy7ISwPvQ+wT+hfcRZh/bzw==
   dependencies:
     reusify "^1.0.4"
 
@@ -8157,7 +8157,7 @@ npm-packlist@^1.1.6:
     npm-bundled "^1.0.1"
     npm-normalize-package-bin "^1.0.1"
 
-npm-run-all@4.1.5:
+npm-run-all@^4.1.5:
   version "4.1.5"
   resolved "https://registry.yarnpkg.com/npm-run-all/-/npm-run-all-4.1.5.tgz#04476202a15ee0e2e214080861bff12a51d98fba"
   integrity sha512-Oo82gJDAVcaMdi3nuoKFavkIHBRVqQ1qvMb+9LHk/cF4P6B2m8aP04hGf7oL6wZ9BuGwX1onlLhpuoofSyoQDQ==

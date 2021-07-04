@@ -1,6 +1,6 @@
 {
   "name": "@twihike/stylelint-config",
-  "version": "0.1.13",
+  "version": "0.1.15",
   "description": "My stylelint config.",
   "license": "MIT",
   "author": "twihike",
@@ -22,7 +22,7 @@
     "stylelint-scss": "^3.19.0"
   },
   "peerDependencies": {
-    "prettier": "^2.3.1",
+    "prettier": "^2.3.2",
     "stylelint": "^13.13.1"
   }
 }
