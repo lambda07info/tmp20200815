@@ -57,7 +57,7 @@
     "@rollup/plugin-replace": "2.4.2",
     "@rollup/plugin-typescript": "8.2.1",
     "@twihike/eslint-config": "0.1.14",
-    "@twihike/prettier-config": "0.1.12",
+    "@twihike/prettier-config": "0.1.15",
     "@types/dom-mediacapture-record": "1.0.9",
     "@types/node": "16.0.0",
     "@types/react": "17.0.13",
