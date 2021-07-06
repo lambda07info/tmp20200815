@@ -79,7 +79,7 @@
     "@twihike/prettier-config": "0.1.15",
     "@types/bcrypt": "5.0.0",
     "@types/express": "4.17.12",
-    "@types/jest": "26.0.23",
+    "@types/jest": "26.0.24",
     "@types/node": "16.0.0",
     "@types/passport-jwt": "3.0.5",
     "@types/pluralize": "0.0.29",

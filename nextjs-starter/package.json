@@ -58,7 +58,7 @@
     "@twihike/prettier-config": "0.1.15",
     "@types/cypress-image-snapshot": "3.1.5",
     "@types/graphql-iso-date": "3.4.0",
-    "@types/jest": "26.0.23",
+    "@types/jest": "26.0.24",
     "@types/node": "16.0.0",
     "@types/react": "17.0.13",
     "@types/react-dom": "17.0.8",
