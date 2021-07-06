@@ -64,7 +64,7 @@
     "@nestjs/testing": "7.6.18",
     "@twihike/eslint-config": "0.1.15",
     "@twihike/prettier-config": "0.1.15",
-    "@types/express": "4.17.12",
+    "@types/express": "4.17.13",
     "@types/jest": "26.0.23",
     "@types/node": "16.0.0",
     "@types/pluralize": "0.0.29",
