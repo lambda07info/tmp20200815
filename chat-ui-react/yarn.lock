@@ -1526,10 +1526,10 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
-"@types/dom-mediacapture-record@1.0.9":
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/@types/dom-mediacapture-record/-/dom-mediacapture-record-1.0.9.tgz#42eca652b9da7f8e1dfe5b264865c675f3fc344c"
-  integrity sha512-RKxDs2fTvWfvYGCwp2RgER3HkLCysOA/1FmLIIO++9wKT+y3XQHWi0pfx1pg4rMOy6E/NUy4uaS/xJiHj6NOuA==
+"@types/dom-mediacapture-record@1.0.10":
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/@types/dom-mediacapture-record/-/dom-mediacapture-record-1.0.10.tgz#3b96ead62f89b01eb2b9d5d080f29b2373f2493c"
+  integrity sha512-8O84hHuVhMMLHLybf3y9SQpNcnQSuzVzcJaUNq9+4Ovb7fodS0aQXep4hyMtxd6fe/dyszbHFjFqtyawf4y46A==
 
 "@types/estree@*":
   version "0.0.49"
