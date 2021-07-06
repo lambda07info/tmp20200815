@@ -65,7 +65,7 @@
     "@twihike/eslint-config": "0.1.15",
     "@twihike/prettier-config": "0.1.15",
     "@types/express": "4.17.12",
-    "@types/jest": "26.0.23",
+    "@types/jest": "26.0.24",
     "@types/node": "16.0.0",
     "@types/pluralize": "0.0.29",
     "@types/supertest": "2.0.11",
