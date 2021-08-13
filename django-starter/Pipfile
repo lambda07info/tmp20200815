@@ -19,7 +19,7 @@ tox = "==3.23.1"
 pytest = "==6.2.4"
 pytest-cov = "==2.12.1"
 pytest-mock = "==3.6.1"
-pytest-randomly = "==3.8.0"
+pytest-randomly = "==3.10.1"
 pytest-xdist = "==2.3.0"
 # Django dev tools
 django-extensions = "==3.1.3"
