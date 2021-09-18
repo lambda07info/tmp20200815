@@ -2006,10 +2006,10 @@
     eslint-config-airbnb-base "^14.2.1"
     eslint-config-prettier "^8.3.0"
 
-"@twihike/prettier-config@0.1.15":
-  version "0.1.15"
-  resolved "https://registry.yarnpkg.com/@twihike/prettier-config/-/prettier-config-0.1.15.tgz#f6d04bec00889872a4e83ba620ff2d66e7a71b82"
-  integrity sha512-EZxq+NyNi5bdz922f8euhb5i12UP8lrOo9YT3pQ70khp0kZ+61WgGVacgybfvVFANvUS2vZHNox542IJ9is/IA==
+"@twihike/prettier-config@0.1.17":
+  version "0.1.17"
+  resolved "https://registry.yarnpkg.com/@twihike/prettier-config/-/prettier-config-0.1.17.tgz#23faab7a6952e18c11f08a5087e0da6994c0d3c2"
+  integrity sha512-ycu+jG/RuPE6VoTB8jhOvSCtQVm5H+Xy38dUb27G6Pd0twBjvcfrOCL5rXw+PsB1PlC6z2vPeiRtC3s/fOKt+A==
 
 "@types/accepts@^1.3.5":
   version "1.3.5"
