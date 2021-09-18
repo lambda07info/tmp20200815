@@ -57,7 +57,7 @@
     "@rollup/plugin-node-resolve": "13.0.4",
     "@rollup/plugin-replace": "3.0.0",
     "@rollup/plugin-typescript": "8.2.5",
-    "@twihike/eslint-config": "0.1.15",
+    "@twihike/eslint-config": "0.1.17",
     "@twihike/prettier-config": "0.1.15",
     "@types/dom-mediacapture-record": "1.0.10",
     "@types/node": "16.9.2",
