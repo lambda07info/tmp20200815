@@ -5,7 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 # Dev tools
-flake8 = "==3.9.2"
+flake8 = "==4.0.1"
 mypy = "==0.910"
 pylint = "==2.11.1"
 autopep8 = "==1.5.7"
