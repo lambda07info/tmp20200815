@@ -8230,6 +8230,18 @@ glob@7.1.7, glob@^7.0.0, glob@^7.1.1, glob@^7.1.2, glob@^7.1.3, glob@^7.1.4, glo
     once "^1.3.0"
     path-is-absolute "^1.0.0"
 
+glob@7.2.0:
+  version "7.2.0"
+  resolved "https://registry.yarnpkg.com/glob/-/glob-7.2.0.tgz#d15535af7732e02e948f4c41628bd910293f6023"
+  integrity sha512-lmLf6gtyrPq8tTjSmrO94wBeQbFR3HbLHbuyD69wuyQkImp2hWqMGB47OX65FBkPffO641IP9jWa1z4ivqG26Q==
+  dependencies:
+    fs.realpath "^1.0.0"
+    inflight "^1.0.4"
+    inherits "2"
+    minimatch "^3.0.4"
+    once "^1.3.0"
+    path-is-absolute "^1.0.0"
+
 global-dirs@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/global-dirs/-/global-dirs-3.0.0.tgz#70a76fe84ea315ab37b1f5576cbde7d48ef72686"
@@ -13499,17 +13511,17 @@ refractor@^3.1.0:
     parse-entities "^2.0.0"
     prismjs "~1.24.0"
 
-reg-cli@0.17.3:
-  version "0.17.3"
-  resolved "https://registry.yarnpkg.com/reg-cli/-/reg-cli-0.17.3.tgz#ac98ebb96c9f7d5e4c3bc7aa876279f3cb72eb6d"
-  integrity sha512-taizH8IKUC4iAA6uGTVYT+40n9hVzugKDGjjtAyHzJQYnpiPrVfQbyCaixDrWCnbr0orpEaWMHgFPHFsqjh91g==
+reg-cli@0.17.7:
+  version "0.17.7"
+  resolved "https://registry.yarnpkg.com/reg-cli/-/reg-cli-0.17.7.tgz#5c31b64de4d0c2883212d53405bdfa4421980497"
+  integrity sha512-cwAJ7Zf/0tv6TArIIrZExJrnmiaTjiZj74ajXpYi8FLux6yOqFdfFfOOUJEIW1DP0zFASuG8HBf1v6m+dY575g==
   dependencies:
     bluebird "3.7.2"
     chalk "4.1.2"
     cli-spinner "0.2.10"
     cross-spawn "7.0.3"
     del "6.0.0"
-    glob "7.1.7"
+    glob "7.2.0"
     img-diff-js "0.5.2"
     jpeg-js "^0.4.0"
     lodash "4.17.21"
@@ -13518,7 +13530,7 @@ reg-cli@0.17.3:
     meow "3.7.0"
     mustache "4.2.0"
     x-img-diff-js "0.3.5"
-    yargs-parser "^20.2.9"
+    yargs-parser "^21.0.1"
 
 regenerate-unicode-properties@^9.0.0:
   version "9.0.0"
@@ -16304,10 +16316,15 @@ yargs-parser@^18.1.2:
     camelcase "^5.0.0"
     decamelize "^1.2.0"
 
-yargs-parser@^20.2.2, yargs-parser@^20.2.7, yargs-parser@^20.2.9:
+yargs-parser@^20.2.2, yargs-parser@^20.2.7:
   version "20.2.9"
   resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-20.2.9.tgz#2eb7dc3b0289718fc295f362753845c41a0c94ee"
   integrity sha512-y11nGElTIV+CT3Zv9t7VKl+Q3hTQoT9a1Qzezhhl6Rp21gJ/IVTW7Z3y9EWXhuUBC2Shnf+DX0antecpAwSP8w==
+
+yargs-parser@^21.0.1:
+  version "21.0.1"
+  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-21.0.1.tgz#0267f286c877a4f0f728fceb6f8a3e4cb95c6e35"
+  integrity sha512-9BK1jFpLzJROCI5TzwZL/TU4gqjK5xiHV/RfWLOahrjAko/e4DJkRDZQXfvqAsiZzzYhgAzbgz6lg48jcm4GLg==
 
 yargs@^15.3.1:
   version "15.4.1"
