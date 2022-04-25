@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@babel/runtime-corejs3": "^7.15.4",
-    "@material-ui/icons": "4.9.1",
+    "@material-ui/icons": "4.11.3",
     "audio-recorder-polyfill": "^0.4.1",
     "dayjs": "^1.10.7"
   },
@@ -51,7 +51,7 @@
     "@babel/preset-env": "7.15.6",
     "@babel/preset-react": "7.14.5",
     "@babel/preset-typescript": "7.15.0",
-    "@material-ui/core": "4.12.3",
+    "@material-ui/core": "4.12.4",
     "@rollup/plugin-babel": "5.3.0",
     "@rollup/plugin-commonjs": "20.0.0",
     "@rollup/plugin-node-resolve": "13.0.4",
