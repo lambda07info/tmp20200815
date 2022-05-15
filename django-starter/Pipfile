@@ -15,7 +15,7 @@ rope = "==0.20.0"
 # Documentation
 Sphinx = "==4.2.0"
 # Testing
-tox = "==3.24.4"
+tox = "==3.25.0"
 pytest = "==6.2.5"
 pytest-cov = "==2.12.1"
 pytest-mock = "==3.6.1"
