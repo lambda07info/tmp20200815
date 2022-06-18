@@ -20,7 +20,7 @@ pytest = "==6.2.5"
 pytest-cov = "==2.12.1"
 pytest-mock = "==3.6.1"
 pytest-randomly = "==3.10.1"
-pytest-xdist = "==2.3.0"
+pytest-xdist = "==2.5.0"
 # Django dev tools
 django-extensions = "==3.1.3"
 django-debug-toolbar = "==3.2.2"
