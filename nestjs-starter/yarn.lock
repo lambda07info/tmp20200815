@@ -1607,12 +1607,12 @@
     lodash "4.17.21"
     path-to-regexp "3.2.0"
 
-"@nestjs/terminus@8.0.0":
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/@nestjs/terminus/-/terminus-8.0.0.tgz#1a1cdb62838d0459ea3d4e3d16b007cdbb0695b9"
-  integrity sha512-H+bj7wHVLMxxLP6bKj8pcdMcUqhGiQONYACpLQdYK9Cl49ReNkKEg1XahTnqXCBkPUgEcOMIpEpuVvJ0eVnpFA==
+"@nestjs/terminus@8.0.8":
+  version "8.0.8"
+  resolved "https://registry.yarnpkg.com/@nestjs/terminus/-/terminus-8.0.8.tgz#d8303201e4cde8e1e48f500d8a4f3b7f4449788f"
+  integrity sha512-VQwIfnbnvqVN1K2o82mjbqnFJnwP/TT8qojSsIUIEqW29elz0TfvjquICrQdEfqxsqn6DcGjLYF4kjHBORsJZQ==
   dependencies:
-    check-disk-space "3.0.1"
+    check-disk-space "3.3.0"
 
 "@nestjs/testing@8.0.6":
   version "8.0.6"
@@ -3258,10 +3258,10 @@ chardet@^0.7.0:
   resolved "https://registry.yarnpkg.com/chardet/-/chardet-0.7.0.tgz#90094849f0937f2eedc2425d0d28a9e5f0cbad9e"
   integrity sha512-mT8iDcrh03qDGRRmoA2hmBJnxpllMR+0/0qlzjqZES6NdiWDcZkCNAk4rPFZ9Q85r27unkiNNg8ZOiwZXBHwcA==
 
-check-disk-space@3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/check-disk-space/-/check-disk-space-3.0.1.tgz#c3798f3e4ec56dcc4d4b98dac0b770e2634efad7"
-  integrity sha512-wRG5ZihEZUXAKVCio5YkLgrHsHDrD+GjRBjxJvoJvN9wrze7EdvYGnOYJSsCyZ4b40jBa3lDmWDmESY9QDQGcg==
+check-disk-space@3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/check-disk-space/-/check-disk-space-3.3.0.tgz#2a8f4c9542ed71a70878fc28fda7e265d40942ec"
+  integrity sha512-Hvr+Nr01xSSvuCpXvJ8oZ2iXjIu4XT3uHbw3g7F/Uiw6O5xk8c/Ot7ZGFDaTRDf2Bz8AdWA4DvpAgCJVKt8arw==
 
 cheerio-select@^1.5.0:
   version "1.5.0"
