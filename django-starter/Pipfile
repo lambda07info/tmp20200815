@@ -8,7 +8,7 @@ verify_ssl = true
 flake8 = "==3.9.2"
 mypy = "==0.910"
 pylint = "==2.11.1"
-autopep8 = "==1.5.7"
+autopep8 = "==1.7.0"
 black = "==21.6b0"
 isort = "==5.9.3"
 rope = "==0.20.0"
