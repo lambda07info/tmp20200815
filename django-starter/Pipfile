@@ -13,7 +13,7 @@ black = "==21.6b0"
 isort = "==5.9.3"
 rope = "==0.20.0"
 # Documentation
-Sphinx = "==4.2.0"
+Sphinx = "==4.5.0"
 # Testing
 tox = "==3.24.4"
 pytest = "==6.2.5"
