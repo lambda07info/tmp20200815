@@ -38,7 +38,7 @@ Pygments = "==2.10.0"
 coreapi = "==2.3.3"
 PyYAML = "==5.4.1"
 # DRF - mypy
-djangorestframework-stubs = "==1.4.0"
+djangorestframework-stubs = "==1.10.0"
 
 [packages]
 gunicorn = "==20.1.0"
