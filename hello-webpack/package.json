@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "core-js": "3.17.3",
-    "regenerator-runtime": "0.13.9"
+    "regenerator-runtime": "0.14.1"
   },
   "devDependencies": {
     "@babel/cli": "7.15.7",
