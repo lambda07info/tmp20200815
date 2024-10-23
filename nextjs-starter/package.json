@@ -59,7 +59,7 @@
     "@types/cypress-image-snapshot": "3.1.6",
     "@types/graphql-iso-date": "3.4.0",
     "@types/jest": "27.0.1",
-    "@types/node": "16.9.2",
+    "@types/node": "16.18.115",
     "@types/react": "17.0.21",
     "@types/react-dom": "17.0.9",
     "@types/react-table": "7.7.4",
